@@ -8,6 +8,7 @@ There is
 3. factopedia,simon game,profile-page
 
 
-in that order
+In that order.
+
 Each of the above .html files have their own Javascript files with the same name and coressponding css files.
 There are sounds and images included as well.
